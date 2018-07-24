@@ -10,7 +10,6 @@
   <head>
     <title>$Title$</title>
 
-
   </head>
   <body>
   studey2
